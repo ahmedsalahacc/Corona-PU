@@ -1,5 +1,5 @@
 # Corona-PU
-Corona PU is a designed, and created computer from scratch, but unlike other computers, we are making a computer that is actually built over Xilinx simulator and run our simulations on that computer. The PU has its own compiler for its own instruction set (BEMO) that is used as an instruction set to deal with the computer.
+Corona PU is a designed, and created computer from scratch, but unlike other computers, we made a computer that is actually built over Xilinx simulator. We also ran our simulations, and RL-Training on our computer. The PU has its own compiler for its own instruction set (BEMO) that is used as an instruction set to deal with the computer.
 * All components were made using VHDL
 * All computer components have been used and tested in Xilinx simulator using our computer
 * The game made was made using BEMO (our instruction set) and runs on our computer
